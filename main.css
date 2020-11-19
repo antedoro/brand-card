@@ -1,0 +1,35 @@
+.nav-brand{
+    /* margin: 30px; */
+    vertical-align: middle;
+    box-sizing: content-box;
+    transform: scale(1.);
+    transform-origin: left;
+}
+
+.brand-logo{
+    border: 1px solid #ececec;
+    border-radius: 50%;
+    padding: 3px;
+    max-width: 78px;
+    max-height: 78px;
+}
+
+
+.brand {
+    display: inline-block;
+    max-width: 215px;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.brand-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.brand-tagline {
+    font-size: 1.115rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
